@@ -1,5 +1,5 @@
 
-| Day | Activity | LinkedIn Post |
+| Day | Activity | LinkedIn Post Links |
 |-----|----------|---------------|
 | 1   | The Inception: Kicking Off 30 Days of SQL challenge | [Link](https://www.linkedin.com/posts/ayushlodha7_revising-the-select-query-ii-hackerrank-activity-7146882671028150272-SHEz?utm_source=share&utm_medium=member_desktop) |
 | 2   | Learned about COUNT, AVERAGE, SUM, LIKE, CAST, REPLACE, etc. | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-day2-30daysofsql-activity-7147242247686610944-jk7-?utm_source=share&utm_medium=member_desktop) |
