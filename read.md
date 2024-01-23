@@ -1,7 +1,7 @@
 
 | Day | Activity | LinkedIn Post |
 |-----|----------|---------------|
-| 1   | Introduction to 100 Days of SQL challenge | [Link](https://www.linkedin.com/posts/ayushlodha7_revising-the-select-query-ii-hackerrank-activity-7146882671028150272-SHEz?utm_source=share&utm_medium=member_desktop) |
+| 1   | The Inception: Kicking Off 30 Days of SQL challenge | [Link](https://www.linkedin.com/posts/ayushlodha7_revising-the-select-query-ii-hackerrank-activity-7146882671028150272-SHEz?utm_source=share&utm_medium=member_desktop) |
 | 2   | Learned about COUNT, AVERAGE, SUM, LIKE, CAST, REPLACE, etc. | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-day2-30daysofsql-activity-7147242247686610944-jk7-?utm_source=share&utm_medium=member_desktop) |
 | 3   | Revisited theoretical SQL topics like PRIMARY KEY, FOREIGN KEY, and SQL constraints | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-day3-30daysofsql-activity-7147626838234660865-UZaJ?utm_source=share&utm_medium=member_desktop) |
 | 4   | Solved 'The Pads' HackerRank challenge, focused on ORDER BY and CONCAT | [Link](https://www.linkedin.com/posts/ayushlodha7_the-pads-hackerrank-activity-7147995780501389312-3A0e?utm_source=share&utm_medium=member_desktop) |
