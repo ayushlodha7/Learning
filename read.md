@@ -1,7 +1,7 @@
 
 | Day | Activity | LinkedIn Post |
 |-----|----------|---------------|
-| 1   | Introduction to 100 Days of SQL challenge | [Link]() |
+| 1   | Introduction to 100 Days of SQL challenge | [Link](https://www.linkedin.com/posts/ayushlodha7_revising-the-select-query-ii-hackerrank-activity-7146882671028150272-SHEz?utm_source=share&utm_medium=member_desktop) |
 | 2   | Learned about COUNT, AVERAGE, SUM, LIKE, CAST, REPLACE, etc. | [Link]() |
 | 3   | Revisited theoretical SQL topics like PRIMARY KEY, FOREIGN KEY, and SQL constraints | [Link]() |
 | 4   | Solved 'The Pads' HackerRank challenge, focused on ORDER BY and CONCAT | [Link]() |
