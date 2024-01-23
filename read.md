@@ -1,3 +1,5 @@
+# 30 Days of SQL Challenge
+
 
 | Day | Activity | LinkedIn Post Links |
 |-----|----------|---------------|
