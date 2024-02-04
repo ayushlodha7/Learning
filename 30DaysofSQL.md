@@ -18,4 +18,6 @@
 | 17  | Continued with Intermediate SQL Challenges Part 2 on HackerRank, covering subqueries, nested queries, and window functions | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-intermediate-solutions-part-ii-activity-7155361374083137537-utSC?utm_source=share&utm_medium=member_desktop) |
 | 18-20    | Completed SQL Intermediate Part 3 and the SQL Advanced Part 1                             | [Link](https://www.linkedin.com/posts/ayushlodha7_intermediate-part-3-and-advanced-part-1-activity-7156457722786242560-y7Oo?utm_source=share&utm_medium=member_desktop)      |
 | 21-22    | Completed SQL Advanced Part 2 on HackerRank, achieved 5-star rating on Hackerrank                     | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-advanced-part2-activity-7157214397201817600-PUfB?utm_source=share&utm_medium=member_desktop)      |
+| 23-24    | Reviewed articles and questions for SQL interviews, focusing on data science and engineering | [Link](https://www.linkedin.com/posts/ayushlodha7_leetcode-sql-interviewpreparation-activity-7158308448089055232-QNlo?utm_source=share&utm_medium=member_desktop)      |
+| 25-30    | Completed SQL (Basic), (Intermediate) and (Advanced) certifications, compiled a cheatsheet  | [Link]()      |
 
