@@ -1,8 +1,8 @@
 # 30 Days of SQL Challenge
 
 
-| Day       | Activity  | LinkedIn Post Links |
-|-----------|-----------|---------------|
+| Day         | Activity  | LinkedIn Post Links |
+|-------------|-----------|---------------|
 | 1   | The Inception: Kicking Off 30 Days of SQL challenge | [Link](https://www.linkedin.com/posts/ayushlodha7_revising-the-select-query-ii-hackerrank-activity-7146882671028150272-SHEz?utm_source=share&utm_medium=member_desktop) |
 | 2   | Learned about COUNT, AVERAGE, SUM, LIKE, CAST, REPLACE, etc. | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-day2-30daysofsql-activity-7147242247686610944-jk7-?utm_source=share&utm_medium=member_desktop) |
 | 3   | Revisited theoretical SQL topics like PRIMARY KEY, FOREIGN KEY, and SQL constraints | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-day3-30daysofsql-activity-7147626838234660865-UZaJ?utm_source=share&utm_medium=member_desktop) |
@@ -17,6 +17,6 @@
 | 16  | Dived into complex window functions like OVER(), LAG(), LEAD(), etc. | [Link](https://www.linkedin.com/posts/ayushlodha7_30daysofsql-30daysofcode-30daysofsql-activity-7155013348911132673-bvWP?utm_source=share&utm_medium=member_desktop) |
 | 17  | Continued with Intermediate SQL Challenges Part 2 on HackerRank, covering subqueries, nested queries, and window functions | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-intermediate-solutions-part-ii-activity-7155361374083137537-utSC?utm_source=share&utm_medium=member_desktop) |
 | 18-20    | Completed SQL Intermediate Part 3 and the SQL Advanced Part 1                             | [Link](https://www.linkedin.com/posts/ayushlodha7_intermediate-part-3-and-advanced-part-1-activity-7156457722786242560-y7Oo?utm_source=share&utm_medium=member_desktop)      |
-| 21-22    | Completed SQL Advanced Part 2 on HackerRank, achieved 5-star rating on Hackerrank                     | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-advanced-part2-activity-7157214397201817600-PUfB?utm_source=share&utm_medium=member_desktop)      |
-| 23-24    | Reviewed articles and questions for SQL interviews, focusing on data science and engineering | [Link](https://www.linkedin.com/posts/ayushlodha7_leetcode-sql-interviewpreparation-activity-7158308448089055232-QNlo?utm_source=share&utm_medium=member_desktop)      |
-| 25-30    | Completed SQL (Basic), (Intermediate) and (Advanced) certifications, compiled a cheatsheet  | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-cheatsheet-activity-7160057922826162176-N8BV?utm_source=share&utm_medium=member_desktop)      |
+| 21-22     | Completed SQL Advanced Part 2 on HackerRank, achieved 5-star rating on Hackerrank                     | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-advanced-part2-activity-7157214397201817600-PUfB?utm_source=share&utm_medium=member_desktop)      |
+| 23-24     | Reviewed articles and questions for SQL interviews, focusing on data science and engineering | [Link](https://www.linkedin.com/posts/ayushlodha7_leetcode-sql-interviewpreparation-activity-7158308448089055232-QNlo?utm_source=share&utm_medium=member_desktop)      |
+| 25-30     | Completed SQL (Basic), (Intermediate) and (Advanced) certifications, compiled a cheatsheet  | [Link](https://www.linkedin.com/posts/ayushlodha7_sql-cheatsheet-activity-7160057922826162176-N8BV?utm_source=share&utm_medium=member_desktop)      |
