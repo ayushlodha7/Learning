@@ -186,3 +186,6 @@ You can see the notebook for the implementation [here:](https://www.kaggle.com/c
 - [https://www.youtube.com/watch?v=jJ7ff7Gcq34&ab_channel=DataScienceDojo](https://www.youtube.com/watch?v=jJ7ff7Gcq34&ab_channel=DataScienceDojo)
 - [https://www.youtube.com/watch?v=Kdsp6soqA7o&ab_channel=StatQuestwithJoshStarmer](https://www.youtube.com/watch?v=Kdsp6soqA7o&ab_channel=StatQuestwithJoshStarmer)
 - [https://www.youtube.com/watch?v=vP06aMoz4v8&ab_channel=StatQuestwithJoshStarmer](https://www.youtube.com/watch?v=vP06aMoz4v8&ab_channel=StatQuestwithJoshStarmer)
+
+![](https://komarev.com/ghpvc/?username=ayushlodha7&color=yellow)
+
