@@ -28,7 +28,6 @@ $$
 \text{Sensitivity} = \frac{\text{True Positive}}{\text{True Positive} + \text{False Negative}}
 
 $$
-
 |  | Actual |
 | --- | --- |
 | Predicted | Has Cardiac Arrhythymia |
@@ -43,7 +42,6 @@ $$
 
 $$
 \text{Specificity} = \frac{\text{True Negative}}{\text{True Negative} + \text{False Positive}}
-
 $$
 
 |  | Actual |
