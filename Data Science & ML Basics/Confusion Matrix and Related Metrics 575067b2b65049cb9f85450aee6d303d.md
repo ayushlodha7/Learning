@@ -28,8 +28,6 @@ $$
 \text{Sensitivity} = \frac{\text{True Positive}}{\text{True Positive} + \text{False Negative}}
 $$
 
-
-$$
 |  | Actual |
 | --- | --- |
 | Predicted | Has Cardiac Arrhythymia |
@@ -66,7 +64,6 @@ $$
 
 $$
 \text{Accuracy} = \frac{\text{True Positive}+\text{True Negative}}{\text{True Positive} + \text{True Negative}+\text{False Positive}+\text{False Negative}}
-
 $$
 
 - The metric's name shows us the accuracy used to judge model performance.
@@ -84,7 +81,6 @@ $$
 
 $$
 \text{Precision} = \frac{\text{True Positive}}{\text{True Positive}+\text{False Positive}}
-
 $$
 
 Rate of which your positive predictions are actually positive.
