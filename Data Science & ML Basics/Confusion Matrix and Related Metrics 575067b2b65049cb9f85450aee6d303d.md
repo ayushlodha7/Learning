@@ -26,6 +26,8 @@
 
 $$
 \text{Sensitivity} = \frac{\text{True Positive}}{\text{True Positive} + \text{False Negative}}
+$$
+
 
 $$
 |  | Actual |
